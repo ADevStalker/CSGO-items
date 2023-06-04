@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "socket.io-client": "^4.6.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  }
+}
